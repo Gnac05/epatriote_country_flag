@@ -29,7 +29,7 @@ class EpatrioteCountryFlag extends StatelessWidget {
       case 'de':
       case 'ad':
       case 'ao':
-      case 'al':
+      case 'ai':
       case 'aq':
       case 'ag':
       case 'sa':
@@ -157,8 +157,8 @@ class EpatrioteCountryFlag extends StatelessWidget {
       case 'mk':
       case 'mg':
       case 'my':
-      case 'mg':
-      case 'my':
+      //case 'mg':
+      //case 'my':
       case 'mw':
       case 'mv':
       case 'ml':
